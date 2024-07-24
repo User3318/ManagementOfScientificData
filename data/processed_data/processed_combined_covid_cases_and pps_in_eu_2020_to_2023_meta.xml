@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dc:title>Processed Covid Cases and PPS values per EU-country from 2020 to 2023</dc:title>
+<dc:creator>Fabian Hupfeld</dc:creator>
+<dc:subject>Covid Cases and PPS values per eu-country</dc:subject>
+<dc:description>This Dataset contains weekly covid cases and yearly pps values per eu-country from 2020-2023</dc:description>
+<dc:description>Column country_code: observed country as a 2 letter isocode</dc:description>
+<dc:description>Column year: observation-year as integer</dc:description>
+<dc:description>Column week: observation-week as integer</dc:description>
+<dc:description>Column rate_14_day: 14-day notification rate of newly reported COVID-19 cases per 100 000 population</dc:description>
+<dc:description>Column pps: indicators of GDP and GDP per capita in PPS as integer</dc:description>
+<dc:contributor>Fabian Hupfeld</dc:contributor>
+<dc:date>21.07.2024</dc:date>
+<dc:type>text</dc:type>
+<dc:format>csv</dc:format>
+<dc:source>https://ec.europa.eu/eurostat/databrowser/view/tec00114/default/table?lang=de&category=t_na10.t_nama10.t_nama_10_ma</dc:source>
+<dc:source>https://www.ecdc.europa.eu/en/publications-data/data-national-14-day-notification-rate-covid-19</dc:source>
+<dc:language>english</dc:language>
+<dc:relation>https://github.com/User3318/ManagementOfScientificData</dc:relation>
+<dc:coverage>EU-Countries</dc:coverage>
+<dc:coverage>2020-2023</dc:coverage>
+<dc:rights>CC0</dc:rights>
