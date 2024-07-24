@@ -1,7 +1,9 @@
 # Management Of Scientific Data - Exam Project
-***
+
 Exam-Project for the modul Management Of Scientific Data. This project is a small example research project to demonstrate data management.
-This project examines the impact a countries ppp value (local gdp) on covid-19 deaths and cases. 
+This project examines the impact that economy of an eu-country has on their COVID-19 deaths and cases during the COVID-19 pandemic.  
+
+For further information read the [workflow documentation](doc/workflow.md)
 
 ## Overview
 
@@ -17,8 +19,8 @@ This project examines the impact a countries ppp value (local gdp) on covid-19 d
 
 ## Getting started
 
-- Install python and pip
-- While in the code-directory enter the following command to install all required packages:`pip install -r requirements.txt`
+- Install python 3.11.9 and pip
+- While in the code-directory enter the following command to install all required packages:`python3 -m pip install -r requirements.txt`
 - To generate all project-relevant data, execute the jupyter notebooks in the following order:
   - `data_quality_assurance.ipynb` checks data quality completeness of raw data 
   - `data_preprocessing.ipynb` generated preprocessed csv files from raw data 
@@ -30,4 +32,4 @@ All data is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1
 
 ## Questions
 
-Please contact the repository owner via mail (fabse.hupfeld@gmail.com) for any remaining questions after reading the comprehensive documentation 
+For further questions or suggestions please contact the repository owner via github([User3318](https://github.com/User3318)) or mail ([fabian.hupfeld@uni-jena.de](mailto:fabian.hupfeld@uni-jena.de))

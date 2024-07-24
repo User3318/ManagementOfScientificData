@@ -2,7 +2,7 @@
 This file provides a general workflow of this project, using the Data Lifecycle as guideline
 
 Plan -> Collect -> Assure -> Describe -> Preserve -> Discover -> Integrate -> Analyze
-***
+
 # Plan
 Data Management Plan Template V1.1(04.2022) from Horizon Europe ([template](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx))  
 Provides all major dmp aspects in a simple template. 
